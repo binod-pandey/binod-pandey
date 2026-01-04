@@ -1,28 +1,37 @@
-## Hi there 👋
-# 💫 About Me
+## Hi there 👋  
+I'm **Binod Pandey**, a backend-leaning engineering student who enjoys understanding how systems work under the hood rather than just using abstractions.
 
-🔭 Currently working on a **Load Balancer** project to understand traffic distribution, health checks, and networking fundamentals  
+---
+
+## 💫 About Me
+
+🔭 Currently working on a **Load Balancer** project to understand traffic distribution, health checks, and core networking concepts  
 🌱 Learning **Networking, System Design, and Backend Engineering**  
 👯 Open to collaborating on **networking, backend, and system-level projects**  
 🤝 Contributor to **FSU Pulchowk Alumni Portal** *(private repository)*  
 💬 Ask me about **Networking basics, Load Balancers, MERN stack, and backend APIs**  
-⚡ Fun fact: I enjoy digging into how systems work behind the scenes rather than just using frameworks
+⚡ Fun fact: I enjoy breaking systems down to first principles instead of relying only on frameworks
 
 ---
 
 ## 🔒 Private Work
 
-- **FSU Pulchowk Alumni Portal** *(Private Repository)*  
-  Contributing to development of an alumni management platform.  
-  Tech stack includes **React, Node.js, Express, MongoDB**.  
-  *(Repository is private due to organizational restrictions)*
+### **FSU Pulchowk Alumni Portal** *(Private Repository)*  
+Contributing to the development of an alumni management platform used within the organization.
+
+**Tech stack:**
+- React
+- Node.js
+- Express
+- MongoDB
+
+> Repository is private due to organizational restrictions, but I actively contribute to feature development and backend APIs.
 
 ---
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/photo/?fbid=1372840827908168&set=a.126164809242449)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binod-pandey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binod-pandey/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/binodpands00)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:binodpands00@gmail.com)
 
@@ -30,30 +39,39 @@
 
 ## 💻 Tech Stack
 
-**Languages & Core**
-- C, C++, JavaScript, Python
+### **Languages & Core**
+- C  
+- C++  
+- JavaScript  
+- Python  
 
-**Frontend**
-- HTML, CSS, React, React Router, Redux, Chakra UI, DaisyUI, Vite
+### **Frontend**
+- HTML  
+- CSS  
+- React  
+- React Router  
+- Redux Toolkit  
+- Chakra UI  
+- DaisyUI  
+- Vite  
 
-**Backend & Databases**
-- Node.js, Express.js, MongoDB, MySQL, Prisma, JWT
+### **Backend & Databases**
+- Node.js  
+- Express.js  
+- MongoDB  
+- MySQL  
+- Prisma  
+- JWT  
 
-**Tools & Others**
-- Apache, Postman, Nodemon, Babel, Canva
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=binod-pandey&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=binod-pandey&theme=date_night&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=binod-pandey&theme=date_night&hide_border=false&layout=compact)
+### **Tools & Others**
+- Apache  
+- Postman  
+- Nodemon  
+- Babel  
+- Canva  
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=binod-pandey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
+![](https://github-profile-trophy.vercel.app/?username=binod-pandey&theme=flat&no-frame=true&margin-w=10)
