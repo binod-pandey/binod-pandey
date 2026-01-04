@@ -5,27 +5,22 @@ I'm **Binod Pandey**, a backend-leaning engineering student who enjoys understan
 
 ## 💫 About Me
 
-🔭 Currently working on a **Load Balancer** project to understand traffic distribution, health checks, and core networking concepts  
+🔭 Currently working on a **Load Balancer** project to understand traffic distribution, health checks, and networking fundamentals  
 🌱 Learning **Networking, System Design, and Backend Engineering**  
 👯 Open to collaborating on **networking, backend, and system-level projects**  
 🤝 Contributor to **FSU Pulchowk Alumni Portal** *(private repository)*  
 💬 Ask me about **Networking basics, Load Balancers, MERN stack, and backend APIs**  
-⚡ Fun fact: I enjoy breaking systems down to first principles instead of relying only on frameworks
+⚡ Fun fact: I prefer breaking systems down to first principles rather than relying only on frameworks
 
 ---
 
 ## 🔒 Private Work
 
-### **FSU Pulchowk Alumni Portal** *(Private Repository)*  
-Contributing to the development of an alumni management platform used within the organization.
+**FSU Pulchowk Alumni Portal** *(Private Repository)*  
+Contributing to an alumni management platform used within the organization.  
+Tech stack: **React, Node.js, Express, MongoDB**
 
-**Tech stack:**
-- React
-- Node.js
-- Express
-- MongoDB
-
-> Repository is private due to organizational restrictions, but I actively contribute to feature development and backend APIs.
+> Repository is private due to organizational restrictions.
 
 ---
 
@@ -39,39 +34,10 @@ Contributing to the development of an alumni management platform used within the
 
 ## 💻 Tech Stack
 
-### **Languages & Core**
-- C  
-- C++  
-- JavaScript  
-- Python  
+**Languages & Core:** C · C++ · JavaScript · Python  
 
-### **Frontend**
-- HTML  
-- CSS  
-- React  
-- React Router  
-- Redux Toolkit  
-- Chakra UI  
-- DaisyUI  
-- Vite  
+**Frontend:** HTML · CSS · React · React Router · Redux Toolkit · Chakra UI · DaisyUI · Vite  
 
-### **Backend & Databases**
-- Node.js  
-- Express.js  
-- MongoDB  
-- MySQL  
-- Prisma  
-- JWT  
+**Backend & Databases:** Node.js · Express.js · MongoDB · MySQL · Prisma · JWT  
 
-### **Tools & Others**
-- Apache  
-- Postman  
-- Nodemon  
-- Babel  
-- Canva  
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=binod-pandey&theme=flat&no-frame=true&margin-w=10)
+**Tools & Others:** Apache · Postman · Nodemon · Babel · Canva
