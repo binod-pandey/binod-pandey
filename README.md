@@ -10,11 +10,15 @@ I'm **Binod Pandey**, a backend-leaning engineering student who enjoys understan
 👯 Open to collaborating on **networking, backend, and system-level projects**  
 🤝 Contributor to **FSU Pulchowk Alumni Portal** *(private repository)*  
 💬 Ask me about **Networking basics, Load Balancers, MERN stack, and backend APIs**  
-⚡ Fun fact: I prefer breaking systems down to first principles rather than relying only on frameworks
 
 ---
+##  Open Source
 
-## 🔒 Private Work
+**Backend Engineer (Seasonal)** — *LOCUS Open Source Team (LOST)*  
+Contributing to backend development and maintenance of the LOCUS official website.  
+*Baishakh 2082 – Present*
+
+##  Private Work
 
 **FSU Pulchowk Alumni Portal** *(Private Repository)*  
 Contributing to an alumni management platform used within the organization.  
